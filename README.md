@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Shader Coding in Unity**
 
-- 💬 Ask me about **Unity, Blender, Unreal Engine, C#, C++, HTML, CSS**
+- 💬 Ask me about **Unity, Blender, Unreal Engine, C#, C++, HTML, CSS, SQL**
 
 - 📫 How to reach me **fikret_gezer@outlook.com**
 
