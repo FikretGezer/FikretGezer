@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **Shader Coding in Unity**
 
-- 💬 Ask me about **Unity, Blender, Unreal Engine, C#, C++, HTML, CSS, SQL**
+- 💬 Knowledge about **Unity, Blender and C# level of Intermediate, Unreal Engine, C++, HTML, CSS, SQL level of Fundamental**
+
+- 💻 Intermediate level of knowledge in **Unity, Blender, and C#**
+
+- 💻 Fundamental level of knowledge in **Unreal Engine, C++, HTML, CSS, and SQL**
 
 - 📫 How to reach me **fikret_gezer@outlook.com**
 
