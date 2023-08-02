@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/fikretgezer7" target="blank"><img src="https://img.shields.io/twitter/follow/fikretgezer7?logo=twitter&style=for-the-badge" alt="fikretgezer7" /></a> </p>
 
-- 🔭 I’m currently working on [Village Building](https://github.com/FikretGezer/Village-Building)
-
 - 🌱 I’m currently learning **Shader Coding in Unity**
 
 - 💻 Intermediate level of knowledge in **Unity, Blender, and C#**
