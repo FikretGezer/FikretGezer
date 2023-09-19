@@ -1,4 +1,4 @@
-![itch-io](https://github.com/FikretGezer/FikretGezer/assets/64322071/9589099e-c6ff-4ff1-b1e9-0d03530e45a9)<h1 align="center">Hi 👋, I'm Fikret Gezer</h1>
+<h1 align="center">Hi 👋, I'm Fikret Gezer</h1>
 <h3 align="center">A game developer, web developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikretgezer&label=Profile%20views&color=0e75b6&style=flat" alt="fikretgezer" /> </p>
