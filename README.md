@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fikret Gezer</h1>
+![itch-io](https://github.com/FikretGezer/FikretGezer/assets/64322071/9589099e-c6ff-4ff1-b1e9-0d03530e45a9)<h1 align="center">Hi 👋, I'm Fikret Gezer</h1>
 <h3 align="center">A game developer, web developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikretgezer&label=Profile%20views&color=0e75b6&style=flat" alt="fikretgezer" /> </p>
@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/fikretgezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikretgezer" height="30" width="40" /></a>
 <a href="https://instagram.com/fikretgezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikretgezer" height="30" width="40" /></a>
 <a href="https://fikretgezer.itch.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452232/itch-io.svg" alt="fikretgezer" height="30" width="40" /></a>
+![itch-io](https://github.com/FikretGezer/FikretGezer/assets/64322071/e2803e7c-0eb0-43ed-acdd-78a20445f7f3)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
