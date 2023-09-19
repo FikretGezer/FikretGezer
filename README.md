@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/fikretgezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikretgezer" height="30" width="40" /></a>
 <a href="https://instagram.com/fikretgezer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikretgezer" height="30" width="40" /></a>
+<a href="https://fikretgezer.itch.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452232/itch-io.svg" alt="fikretgezer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
