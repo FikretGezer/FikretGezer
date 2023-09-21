@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fikretgezer&show_icons=true&locale=en&layout=compact" alt="fikretgezer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fikretgezer&show_icons=true&locale=en" alt="fikretgezer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fikretgezer&" alt="fikretgezer" /></p>
