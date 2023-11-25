@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fikret Gezer</h1>
-<h3 align="center">A game developer, web developer from Turkey</h3>
+<h3 align="center">A Computer Engineer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fikretgezer&label=Profile%20views&color=0e75b6&style=flat" alt="fikretgezer" /> </p>
 
-- 🌱 I’m currently learning **Shader Coding in Unity**
+- 🌱 I’m currently learning **Advanced UiPath**
 
-- 💻 Intermediate level of knowledge in **Unity, Blender, and C#**
+- 💻 Intermediate level of knowledge in **UiPath, HTML, CSS, JavaScript, Unity, Blender, and C#,**
 
-- 💻 Fundamental level of knowledge in **Unreal Engine, C++, HTML, CSS, and SQL**
+- 💻 Fundamental level of knowledge in **Unreal Engine, C++ and SQL**
 
 - 📫 How to reach me **fikret_gezer@outlook.com**
-
-- ⚡ Fun fact **I enjoy bodybuilding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
